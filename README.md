@@ -18,3 +18,14 @@ Jollibee is a fast-food chain known for its signature Filipino-style fried chick
 # Results
 # Conclusions
 # Next Steps
+
+
+## Repository Structure 
+
+
+```
+├── README.md                                     <- The top-level README for reviewers of this project
+├── Jollibee Locations.pbix                       <- final report.
+├── Jollibee.pdf                                  <- PDF version of project presentation
+└── images                                        <- Both sourced externally and generated from PowerBI
+```
