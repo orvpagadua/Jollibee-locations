@@ -7,13 +7,9 @@
 **Author**: Orville Pagaduan
 
 [link to dashboard](https://app.powerbi.com/view?r=eyJrIjoiZGFmNDE0N2UtYTNiMC00ZGMyLWFiMGUtNDJmMzg2Y2Q4YjMyIiwidCI6ImE5MDdmNzE3LWRiOTMtNGI0Mi04ZDk4LWI0MTFhMDMwMzExOCIsImMiOjEwfQ%3D%3D)
-# Overview:
 
-
-
-# Introduction:
-
-
+# Overview
+Jollibee is a fast-food chain known for its signature Filipino-style fried chicken and other Filipino-inspired dishes. Founded in the Philippines in 1978, Jollibee has since expanded globally, with over 1,400 stores in various countries. The goal is to perform an EDA with the given dataset using PowerBI for visualization.
 
 # About the Dataset:
   Data is scrapped from Jollibee store locator. Link to the dataset can be found [here](https://www.kaggle.com/datasets/mikebeneschan/jollibee).
