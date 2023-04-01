@@ -29,19 +29,18 @@ Most Jollibee restaurants in the dataset are located in the National Capital Reg
 
 ![State](https://user-images.githubusercontent.com/122549893/229269272-d21c808b-b2a1-4a17-8eed-f81e296ab482.png)
 
+## MISC
 
-24hours ![24 hours](https://user-images.githubusercontent.com/122549893/229184689-67175ae3-e7ae-4c72-9467-fe09bba8f3a8.png)
-Drive Thru ![Drive Thru](https://user-images.githubusercontent.com/122549893/229184759-b2a60526-81cd-4dba-a30c-d04b7423eee9.png)
-Breakfast ![Breakfast](https://user-images.githubusercontent.com/122549893/229184810-0ece49b3-d990-419b-b66f-ebf4cc857550.png)
+Out of the 379 Jollibee locations in the dataset, a mere 17 of them serve breakfast, which accounts for only 4.5% of the total number. Additionally, a total of 167 Jollibee locations offer drive-through service, which makes up 44.1% of all Jollibees in the dataset. Interestingly, only three of the Jollibee locations, which is less than 1% of the total number, operate 24-hours a day.
 
-# Results
-Final Dashboard
+<div style="display:flex;justify-content:space-around">
+    <img src="https://user-images.githubusercontent.com/122549893/229184689-67175ae3-e7ae-4c72-9467-fe09bba8f3a8.png" alt="24 hours" width="300">
+    <img src="https://user-images.githubusercontent.com/122549893/229184759-b2a60526-81cd-4dba-a30c-d04b7423eee9.png" alt="Drive Thru" width="500">
+    <img src="https://user-images.githubusercontent.com/122549893/229184810-0ece49b3-d990-419b-b66f-ebf4cc857550.png" alt="Breakfast" width="300">
+</div>
+
+# Final Dashboard
 ![Dashboard](https://user-images.githubusercontent.com/122549893/229185003-aa74ddcd-4967-4875-890a-b474a700d4ab.png)
-
-
-# Conclusions
-# Next Steps
-
 
 ## Repository Structure 
 
